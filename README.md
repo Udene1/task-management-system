@@ -8,7 +8,7 @@ This is a simple command-line task management system built with Python.
 
 ## Installation
 
-1. Clone this repository:
+1. Clone this repository: Open CMD and run
 git clone https://github.com/Udene1/task-management-system.git
 
 ## Usage
