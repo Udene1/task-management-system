@@ -9,7 +9,7 @@ This is a simple command-line task management system built with Python.
 ## Installation
 
 1. Clone this repository:
-git clone https://github.com/your-username/task-management-system.git
+git clone https://github.com/Udene1/task-management-system.git
 
 ## Usage
 
